@@ -1,3 +1,18 @@
+# joycar
+
+- https://joycar.joy-it.net/en/garage/makecode/10-demo-programs
+- https://makecode.microbit.org/#editor
+
+
+## TODO
+
+- sonar sensor
+- line follower
+- 
+
+
+
+
 
 > Open this page at [https://maxant.github.io/microbit/](https://maxant.github.io/microbit/)
 
